@@ -5,3 +5,6 @@
 [submodule "DVS"]
 	path = DVS
 	url = https://github.com/mahdinouraie/dvs
+[submodule "stabplot"]
+	path = stabplot
+	url = https://github.com/mahdinouraie/stabplot
